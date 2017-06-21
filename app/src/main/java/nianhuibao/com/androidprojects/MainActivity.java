@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivity;
 import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
 
 public class MainActivity extends Activity implements View.OnClickListener {
@@ -15,6 +16,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         findViewById(R.id.bt_ImageSpanAndSpannableString).setOnClickListener(this);
+        findViewById(R.id.bt_EasySwipeMenuLayoutActivity).setOnClickListener(this);
     }
 
     @Override
@@ -22,6 +24,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
         switch (v.getId()) {
             case R.id.bt_ImageSpanAndSpannableString:
                 startActivity(this, SpannableStringAndImageSpanActivity.class);
+                break;
+            case R.id.bt_EasySwipeMenuLayoutActivity:
+                startActivity(this, EasySwipeMenuLayoutActivity.class);
                 break;
         }
     }

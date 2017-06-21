@@ -25,6 +25,7 @@
         </activity>
 
         <activity android:name=".spannableString_imageSpan.SpannableStringAndImageSpanActivity"/>
+        <activity android:name=".easy_swipe_menu.EasySwipeMenuLayoutActivity"/>
     </application>
 
 </manifest>

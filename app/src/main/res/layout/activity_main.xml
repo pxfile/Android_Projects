@@ -21,6 +21,14 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="b01_ImageSpan和SpannableString配合使用给TextView任意位置插入图片"/>
+
+            <Button
+                android:id="@+id/bt_EasySwipeMenuLayoutActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="Android之自定义View：侧滑删除"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
