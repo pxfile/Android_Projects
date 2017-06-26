@@ -29,6 +29,14 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="Android之自定义View：侧滑删除"/>
+
+            <Button
+                android:id="@+id/bt_RecyclerViewListAnimActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="RecyclerView List Item 动画"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

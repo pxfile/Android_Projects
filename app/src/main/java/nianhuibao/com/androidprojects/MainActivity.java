@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivity;
+import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
 import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
 
 public class MainActivity extends Activity implements View.OnClickListener {
@@ -17,6 +18,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         setContentView(R.layout.activity_main);
         findViewById(R.id.bt_ImageSpanAndSpannableString).setOnClickListener(this);
         findViewById(R.id.bt_EasySwipeMenuLayoutActivity).setOnClickListener(this);
+        findViewById(R.id.bt_RecyclerViewListAnimActivity).setOnClickListener(this);
     }
 
     @Override
@@ -27,6 +29,11 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_EasySwipeMenuLayoutActivity:
                 startActivity(this, EasySwipeMenuLayoutActivity.class);
+                break;
+            case R.id.bt_RecyclerViewListAnimActivity:
+                startActivity(this, RecyclerViewListAnimActivity.class);
+                break;
+            default:
                 break;
         }
     }
