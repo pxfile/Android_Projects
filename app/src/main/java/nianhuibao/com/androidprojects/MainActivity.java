@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 
 import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivity;
+import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
+import nianhuibao.com.androidprojects.horizontal_progressBar.ProgressBarActivity;
 import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
 import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
 
@@ -19,6 +21,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_ImageSpanAndSpannableString).setOnClickListener(this);
         findViewById(R.id.bt_EasySwipeMenuLayoutActivity).setOnClickListener(this);
         findViewById(R.id.bt_RecyclerViewListAnimActivity).setOnClickListener(this);
+        findViewById(R.id.bt_FadeInTextViewActivity).setOnClickListener(this);
+        findViewById(R.id.bt_ProgressBarActivity).setOnClickListener(this);
     }
 
     @Override
@@ -32,6 +36,12 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_RecyclerViewListAnimActivity:
                 startActivity(this, RecyclerViewListAnimActivity.class);
+                break;
+            case R.id.bt_FadeInTextViewActivity:
+                startActivity(this, FadeInTextViewActivity.class);
+                break;
+            case R.id.bt_ProgressBarActivity:
+                startActivity(this, ProgressBarActivity.class);
                 break;
             default:
                 break;

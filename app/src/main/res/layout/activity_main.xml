@@ -37,6 +37,22 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="RecyclerView List Item 动画"/>
+
+            <Button
+                android:id="@+id/bt_FadeInTextViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="TextView实现打印机效果"/>
+
+            <Button
+                android:id="@+id/bt_ProgressBarActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="炫酷的进度条"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

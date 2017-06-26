@@ -26,6 +26,8 @@
         <activity android:name=".spannableString_imageSpan.SpannableStringAndImageSpanActivity"/>
         <activity android:name=".easy_swipe_menu.EasySwipeMenuLayoutActivity"/>
         <activity android:name=".recyclerview_list_anim.RecyclerViewListAnimActivity"/>
+        <activity android:name=".fadeIn_textView.FadeInTextViewActivity"/>
+        <activity android:name=".horizontal_progressBar.ProgressBarActivity"/>
     </application>
 
 </manifest>
