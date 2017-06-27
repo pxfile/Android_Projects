@@ -53,6 +53,14 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="炫酷的进度条"/>
+
+            <Button
+                android:id="@+id/bt_PayPsdInputViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="自定义支付密码输入框"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

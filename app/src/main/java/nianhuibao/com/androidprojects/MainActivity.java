@@ -9,6 +9,7 @@ import android.view.View;
 import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivity;
 import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
 import nianhuibao.com.androidprojects.horizontal_progressBar.ProgressBarActivity;
+import nianhuibao.com.androidprojects.pay_psd_inputView.PayPsdViewActivity;
 import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
 import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
 
@@ -23,6 +24,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_RecyclerViewListAnimActivity).setOnClickListener(this);
         findViewById(R.id.bt_FadeInTextViewActivity).setOnClickListener(this);
         findViewById(R.id.bt_ProgressBarActivity).setOnClickListener(this);
+        findViewById(R.id.bt_PayPsdInputViewActivity).setOnClickListener(this);
     }
 
     @Override
@@ -42,6 +44,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_ProgressBarActivity:
                 startActivity(this, ProgressBarActivity.class);
+                break;
+            case R.id.bt_PayPsdInputViewActivity:
+                startActivity(this, PayPsdViewActivity.class);
                 break;
             default:
                 break;
