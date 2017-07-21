@@ -29,6 +29,8 @@
         <activity android:name=".fadeIn_textView.FadeInTextViewActivity"/>
         <activity android:name=".horizontal_progressBar.ProgressBarActivity"/>
         <activity android:name=".pay_psd_inputView.PayPsdViewActivity"/>
+        <activity android:name=".recyclerview_ce_hua.RecyclerCeHuaActivity">
+        </activity>
     </application>
 
 </manifest>
