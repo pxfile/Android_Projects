@@ -25,5 +25,4 @@
         android:layout_marginTop="20dp"
         android:onClick="toPowerfulSticky2"
         android:text="to Beautiful List"/>
-
 </LinearLayout>

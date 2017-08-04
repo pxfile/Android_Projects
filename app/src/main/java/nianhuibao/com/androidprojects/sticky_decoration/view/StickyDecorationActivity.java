@@ -7,6 +7,9 @@ import android.view.View;
 
 import nianhuibao.com.androidprojects.R;
 
+/**
+ * http://www.jianshu.com/p/b335b620af39
+ */
 public class StickyDecorationActivity extends AppCompatActivity {
 
     @Override
