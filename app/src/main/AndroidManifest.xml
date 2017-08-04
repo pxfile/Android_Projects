@@ -31,6 +31,8 @@
         <activity android:name=".pay_psd_inputView.PayPsdViewActivity"/>
         <activity android:name=".recyclerview_ce_hua.RecyclerCeHuaActivity">
         </activity>
+        <activity android:name=".rang_seekBar.RangeSeekBarActivity">
+        </activity>
     </application>
 
 </manifest>

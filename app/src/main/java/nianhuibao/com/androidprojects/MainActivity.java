@@ -10,6 +10,7 @@ import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivit
 import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
 import nianhuibao.com.androidprojects.horizontal_progressBar.ProgressBarActivity;
 import nianhuibao.com.androidprojects.pay_psd_inputView.PayPsdViewActivity;
+import nianhuibao.com.androidprojects.rang_seekBar.RangeSeekBarActivity;
 import nianhuibao.com.androidprojects.recyclerview_ce_hua.RecyclerCeHuaActivity;
 import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
 import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
@@ -27,6 +28,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_ProgressBarActivity).setOnClickListener(this);
         findViewById(R.id.bt_PayPsdInputViewActivity).setOnClickListener(this);
         findViewById(R.id.bt_RecyclerCeHuaActivity).setOnClickListener(this);
+        findViewById(R.id.bt_RangeSeekBarActivity).setOnClickListener(this);
     }
 
     @Override
@@ -52,6 +54,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_RecyclerCeHuaActivity:
                 startActivity(this, RecyclerCeHuaActivity.class);
+                break;
+            case R.id.bt_RangeSeekBarActivity:
+                startActivity(this, RangeSeekBarActivity.class);
                 break;
             default:
                 break;

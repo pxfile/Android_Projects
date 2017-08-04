@@ -69,6 +69,14 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="RecyclerView 侧滑删除"/>
+
+            <Button
+                android:id="@+id/bt_RangeSeekBarActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="双向区间选择进度条"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
