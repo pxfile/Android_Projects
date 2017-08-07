@@ -32,11 +32,11 @@
         <activity android:name=".recyclerview_ce_hua.RecyclerCeHuaActivity">
         </activity>
         <activity android:name=".rang_seekBar.RangeSeekBarActivity"/>
-
         <activity android:name=".sticky_decoration.view.StickyDecorationActivity"/>
         <activity android:name=".sticky_decoration.view.StickyRecyclerViewActivity"/>
         <activity android:name=".sticky_decoration.view.PowerfulStickyRecyclerViewActivity"/>
         <activity android:name=".sticky_decoration.view.BeautifulRecyclerViewActivity"/>
+        <activity android:name=".titanic.TitanicTextViewActivity"/>
     </application>
 
 </manifest>

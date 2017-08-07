@@ -15,6 +15,7 @@ import nianhuibao.com.androidprojects.recyclerview_ce_hua.RecyclerCeHuaActivity;
 import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
 import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
 import nianhuibao.com.androidprojects.sticky_decoration.view.StickyDecorationActivity;
+import nianhuibao.com.androidprojects.titanic.TitanicTextViewActivity;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
@@ -31,6 +32,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_RecyclerCeHuaActivity).setOnClickListener(this);
         findViewById(R.id.bt_RangeSeekBarActivity).setOnClickListener(this);
         findViewById(R.id.bt_StickyDecorationActivity).setOnClickListener(this);
+        findViewById(R.id.bt_TitanicTextViewActivity).setOnClickListener(this);
     }
 
     @Override
@@ -62,6 +64,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_StickyDecorationActivity:
                 startActivity(this, StickyDecorationActivity.class);
+                break;
+            case R.id.bt_TitanicTextViewActivity:
+                startActivity(this, TitanicTextViewActivity.class);
                 break;
             default:
                 break;
