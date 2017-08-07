@@ -93,6 +93,14 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="波浪TextView"/>
+
+            <Button
+                android:id="@+id/bt_SuperTextViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="SuperTextView"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
