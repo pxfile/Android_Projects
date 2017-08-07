@@ -39,6 +39,8 @@
         <activity android:name=".titanic.TitanicTextViewActivity"/>
         <activity android:name=".super_textView.SuperTextViewActivity"/>
         <activity android:name=".super_textView.SecondActivity"/>
+        <activity android:name=".circular_reveal_anima.SearchViewActivity">
+        </activity>
     </application>
 
 </manifest>

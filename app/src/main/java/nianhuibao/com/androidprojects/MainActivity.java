@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import nianhuibao.com.androidprojects.circular_reveal_anima.SearchViewActivity;
 import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivity;
 import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
 import nianhuibao.com.androidprojects.horizontal_progressBar.ProgressBarActivity;
@@ -35,6 +36,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_StickyDecorationActivity).setOnClickListener(this);
         findViewById(R.id.bt_TitanicTextViewActivity).setOnClickListener(this);
         findViewById(R.id.bt_SuperTextViewActivity).setOnClickListener(this);
+        findViewById(R.id.bt_SearchViewActivity).setOnClickListener(this);
     }
 
     @Override
@@ -72,6 +74,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_SuperTextViewActivity:
                 startActivity(this, SuperTextViewActivity.class);
+                break;
+            case R.id.bt_SearchViewActivity:
+                startActivity(this, SearchViewActivity.class);
                 break;
             default:
                 break;
