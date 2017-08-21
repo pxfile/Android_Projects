@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import nianhuibao.com.androidprojects.circle_reveal_loading.CircleRevealLoadingActivity;
 import nianhuibao.com.androidprojects.circular_reveal_anima.SearchViewActivity;
 import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivity;
 import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
@@ -18,6 +19,7 @@ import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringA
 import nianhuibao.com.androidprojects.sticky_decoration.view.StickyDecorationActivity;
 import nianhuibao.com.androidprojects.super_textView.SuperTextViewActivity;
 import nianhuibao.com.androidprojects.titanic.TitanicTextViewActivity;
+import nianhuibao.com.androidprojects.ultraviewpager.UPVDemoActivity;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
@@ -37,6 +39,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_TitanicTextViewActivity).setOnClickListener(this);
         findViewById(R.id.bt_SuperTextViewActivity).setOnClickListener(this);
         findViewById(R.id.bt_SearchViewActivity).setOnClickListener(this);
+        findViewById(R.id.bt_CircleRevealLoadingActivity).setOnClickListener(this);
+        findViewById(R.id.bt_UltraViewPagerActivity).setOnClickListener(this);
     }
 
     @Override
@@ -77,6 +81,12 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_SearchViewActivity:
                 startActivity(this, SearchViewActivity.class);
+                break;
+            case R.id.bt_CircleRevealLoadingActivity:
+                startActivity(this, CircleRevealLoadingActivity.class);
+                break;
+            case R.id.bt_UltraViewPagerActivity:
+                startActivity(this, UPVDemoActivity.class);
                 break;
             default:
                 break;

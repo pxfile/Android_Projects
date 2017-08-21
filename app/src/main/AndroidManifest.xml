@@ -39,8 +39,10 @@
         <activity android:name=".titanic.TitanicTextViewActivity"/>
         <activity android:name=".super_textView.SuperTextViewActivity"/>
         <activity android:name=".super_textView.SecondActivity"/>
-        <activity android:name=".circular_reveal_anima.SearchViewActivity">
-        </activity>
+        <activity android:name=".circular_reveal_anima.SearchViewActivity"/>
+        <activity android:name=".circle_reveal_loading.CircleRevealLoadingActivity"/>
+        <activity android:name=".ultraviewpager.UPVDemoActivity"/>
+        <activity android:name=".ultraviewpager.PagerActivity"/>
     </application>
 
 </manifest>

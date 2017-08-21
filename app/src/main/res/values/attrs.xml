@@ -178,4 +178,20 @@
         <attr name="pressBgColor" format="reference|color"/>
         <attr name="pressTextColor" format="reference|color"/>
     </declare-styleable>
+
+    <declare-styleable name="WaterRippleView">
+        <attr name="rippleSpacing" format="dimension|reference"/>
+        <attr name="rippleCount" format="integer|reference"/>
+        <attr name="rippleColor" format="color|reference"/>
+        <attr name="rippleCenterIcon" format="reference"/>
+        <attr name="rippleAutoRunning" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleRevealLoadingView">
+        <attr name="circleStartColor" format="color|reference"/>
+        <attr name="circleEndColor" format="color|reference"/>
+        <attr name="circleArcWidth" format="integer|reference"/>
+        <attr name="circleArcRadian" format="integer|reference"/>
+        <attr name="circleArcSpacing" format="integer|reference"/>
+    </declare-styleable>
 </resources>
