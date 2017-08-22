@@ -125,6 +125,14 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="UltraViewPager 一个封装多种特性的ViewPager，"/>
+
+            <Button
+                android:id="@+id/bt_TraditionActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="传统动画"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

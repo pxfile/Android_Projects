@@ -19,6 +19,7 @@ import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringA
 import nianhuibao.com.androidprojects.sticky_decoration.view.StickyDecorationActivity;
 import nianhuibao.com.androidprojects.super_textView.SuperTextViewActivity;
 import nianhuibao.com.androidprojects.titanic.TitanicTextViewActivity;
+import nianhuibao.com.androidprojects.tradition_animation.TraditionActivity;
 import nianhuibao.com.androidprojects.ultraviewpager.UPVDemoActivity;
 
 public class MainActivity extends Activity implements View.OnClickListener {
@@ -41,6 +42,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_SearchViewActivity).setOnClickListener(this);
         findViewById(R.id.bt_CircleRevealLoadingActivity).setOnClickListener(this);
         findViewById(R.id.bt_UltraViewPagerActivity).setOnClickListener(this);
+        findViewById(R.id.bt_TraditionActivity).setOnClickListener(this);
     }
 
     @Override
@@ -87,6 +89,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_UltraViewPagerActivity:
                 startActivity(this, UPVDemoActivity.class);
+                break;
+            case R.id.bt_TraditionActivity:
+                startActivity(this, TraditionActivity.class);
                 break;
             default:
                 break;

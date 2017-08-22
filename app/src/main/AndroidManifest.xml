@@ -15,15 +15,14 @@
         android:name="android.webkit.WebView.EnableSafeBrowsing"
         android:value="true"/>
 
-    <!--有关项目依赖包发生 Manifest Merge 冲突的详细解决方案-->
+    <!--有关项目依赖包发生 Manifest Merge 冲突的详细解决方案 tools:replace="android:name, android:label, android:theme,android:allowBackup"-->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        tools:replace="android:name, android:label, android:theme,android:allowBackup">
+        android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -51,6 +50,10 @@
         <activity android:name=".circle_reveal_loading.CircleRevealLoadingActivity"/>
         <activity android:name=".ultraviewpager.UPVDemoActivity"/>
         <activity android:name=".ultraviewpager.PagerActivity"/>
+        <activity android:name=".tradition_animation.TraditionActivity"/>
+        <activity android:name=".tradition_animation.blur.BlurActivity"/>
+        <activity android:name=".tradition_animation.TweenedAnimationActivity"/>
+        <activity android:name=".tradition_animation.FrameAnimationActivity"/>
     </application>
 
 </manifest>
