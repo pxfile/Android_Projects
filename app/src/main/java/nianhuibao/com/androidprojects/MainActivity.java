@@ -12,6 +12,7 @@ import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivit
 import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
 import nianhuibao.com.androidprojects.horizontal_progressBar.ProgressBarActivity;
 import nianhuibao.com.androidprojects.pay_psd_inputView.PayPsdViewActivity;
+import nianhuibao.com.androidprojects.property_animation.PropertyActivity;
 import nianhuibao.com.androidprojects.rang_seekBar.RangeSeekBarActivity;
 import nianhuibao.com.androidprojects.recyclerview_ce_hua.RecyclerCeHuaActivity;
 import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
@@ -43,6 +44,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.bt_CircleRevealLoadingActivity).setOnClickListener(this);
         findViewById(R.id.bt_UltraViewPagerActivity).setOnClickListener(this);
         findViewById(R.id.bt_TraditionActivity).setOnClickListener(this);
+        findViewById(R.id.bt_PropertyActivity).setOnClickListener(this);
     }
 
     @Override
@@ -93,6 +95,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
             case R.id.bt_TraditionActivity:
                 startActivity(this, TraditionActivity.class);
                 break;
+            case R.id.bt_PropertyActivity:
+                startActivity(this, PropertyActivity.class);
             default:
                 break;
         }

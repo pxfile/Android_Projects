@@ -54,6 +54,13 @@
         <activity android:name=".tradition_animation.blur.BlurActivity"/>
         <activity android:name=".tradition_animation.TweenedAnimationActivity"/>
         <activity android:name=".tradition_animation.FrameAnimationActivity"/>
+        <activity android:name=".property_animation.PropertyActivity"/>
+        <activity android:name=".property_animation.ValueAnimationActivity"/>
+        <activity android:name=".property_animation.AliPayAnimActivity"/>
+        <activity android:name=".property_animation.RevealAnimatorActivity"/>
+        <activity android:name=".property_animation.ShopCarAddAnimActivity"/>
+        <activity android:name=".property_animation.LayoutAnimationsActivity"/>
+        <activity android:name=".property_animation.PropertyAnimationActivity"/>
     </application>
 
 </manifest>

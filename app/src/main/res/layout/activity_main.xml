@@ -133,6 +133,14 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="传统动画"/>
+
+            <Button
+                android:id="@+id/bt_PropertyActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="属性动画"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
