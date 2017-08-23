@@ -194,4 +194,9 @@
         <attr name="circleArcRadian" format="integer|reference"/>
         <attr name="circleArcSpacing" format="integer|reference"/>
     </declare-styleable>
+
+    <declare-styleable name="DragBallView">
+        <attr name="dragBallViewColor" format="color|reference"/>
+        <attr name="dragBallViewRadius" format="dimension|reference"/>
+    </declare-styleable>
 </resources>

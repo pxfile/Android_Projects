@@ -1,18 +1,16 @@
 package nianhuibao.com.androidprojects;
 
-import android.app.Activity;
-import android.content.Context;
-import android.content.Intent;
-import android.os.Bundle;
 import android.view.View;
 
 import nianhuibao.com.androidprojects.circle_reveal_loading.CircleRevealLoadingActivity;
 import nianhuibao.com.androidprojects.circular_reveal_anima.SearchViewActivity;
+import nianhuibao.com.androidprojects.drag_ball_view.DragBallViewActivity;
 import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivity;
 import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
 import nianhuibao.com.androidprojects.horizontal_progressBar.ProgressBarActivity;
 import nianhuibao.com.androidprojects.pay_psd_inputView.PayPsdViewActivity;
 import nianhuibao.com.androidprojects.property_animation.PropertyActivity;
+import nianhuibao.com.androidprojects.radar_scan_view.WeiBoRadarScanViewActivity;
 import nianhuibao.com.androidprojects.rang_seekBar.RangeSeekBarActivity;
 import nianhuibao.com.androidprojects.recyclerview_ce_hua.RecyclerCeHuaActivity;
 import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
@@ -23,28 +21,34 @@ import nianhuibao.com.androidprojects.titanic.TitanicTextViewActivity;
 import nianhuibao.com.androidprojects.tradition_animation.TraditionActivity;
 import nianhuibao.com.androidprojects.ultraviewpager.UPVDemoActivity;
 
-public class MainActivity extends Activity implements View.OnClickListener {
+public class MainActivity extends BaseActivity implements View.OnClickListener {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        findViewById(R.id.bt_ImageSpanAndSpannableString).setOnClickListener(this);
-        findViewById(R.id.bt_EasySwipeMenuLayoutActivity).setOnClickListener(this);
-        findViewById(R.id.bt_RecyclerViewListAnimActivity).setOnClickListener(this);
-        findViewById(R.id.bt_FadeInTextViewActivity).setOnClickListener(this);
-        findViewById(R.id.bt_ProgressBarActivity).setOnClickListener(this);
-        findViewById(R.id.bt_PayPsdInputViewActivity).setOnClickListener(this);
-        findViewById(R.id.bt_RecyclerCeHuaActivity).setOnClickListener(this);
-        findViewById(R.id.bt_RangeSeekBarActivity).setOnClickListener(this);
-        findViewById(R.id.bt_StickyDecorationActivity).setOnClickListener(this);
-        findViewById(R.id.bt_TitanicTextViewActivity).setOnClickListener(this);
-        findViewById(R.id.bt_SuperTextViewActivity).setOnClickListener(this);
-        findViewById(R.id.bt_SearchViewActivity).setOnClickListener(this);
-        findViewById(R.id.bt_CircleRevealLoadingActivity).setOnClickListener(this);
-        findViewById(R.id.bt_UltraViewPagerActivity).setOnClickListener(this);
-        findViewById(R.id.bt_TraditionActivity).setOnClickListener(this);
-        findViewById(R.id.bt_PropertyActivity).setOnClickListener(this);
+    protected int setLayoutViewId() {
+        return R.layout.activity_main;
+    }
+
+    @Override
+    public void initView() {
+        setOnClickListener(findViewById(R.id.bt_ImageSpanAndSpannableString),
+                findViewById(R.id.bt_EasySwipeMenuLayoutActivity),
+                findViewById(R.id.bt_RecyclerViewListAnimActivity),
+                findViewById(R.id.bt_FadeInTextViewActivity),
+                findViewById(R.id.bt_ProgressBarActivity),
+                findViewById(R.id.bt_PayPsdInputViewActivity),
+                findViewById(R.id.bt_RecyclerCeHuaActivity),
+                findViewById(R.id.bt_RangeSeekBarActivity),
+                findViewById(R.id.bt_StickyDecorationActivity),
+                findViewById(R.id.bt_TitanicTextViewActivity),
+                findViewById(R.id.bt_SuperTextViewActivity),
+                findViewById(R.id.bt_SearchViewActivity),
+                findViewById(R.id.bt_CircleRevealLoadingActivity),
+                findViewById(R.id.bt_UltraViewPagerActivity),
+                findViewById(R.id.bt_TraditionActivity),
+                findViewById(R.id.bt_PropertyActivity),
+                findViewById(R.id.bt_WeiBoRadarScanViewActivity),
+                findViewById(R.id.bt_DragBallViewActivity)
+        );
     }
 
     @Override
@@ -97,19 +101,15 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.bt_PropertyActivity:
                 startActivity(this, PropertyActivity.class);
+                break;
+            case R.id.bt_WeiBoRadarScanViewActivity:
+                startActivity(this, WeiBoRadarScanViewActivity.class);
+                break;
+            case R.id.bt_DragBallViewActivity:
+                startActivity(this, DragBallViewActivity.class);
+                break;
             default:
                 break;
         }
-    }
-
-    /**
-     * 自定义开启Activity的方法
-     *
-     * @param context       上下文
-     * @param activityClass 要开启的activity.class
-     */
-    public static void startActivity(Context context, Class activityClass) {
-        Intent intent = new Intent(context, activityClass);
-        context.startActivity(intent);
     }
 }
