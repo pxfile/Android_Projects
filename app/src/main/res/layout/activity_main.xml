@@ -157,6 +157,14 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="小球虽手指移动效果"/>
+
+            <Button
+                android:id="@+id/bt_FakeJianShuActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="仿简书长按生成图片效果"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

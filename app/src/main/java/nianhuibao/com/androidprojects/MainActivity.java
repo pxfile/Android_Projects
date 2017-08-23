@@ -14,6 +14,7 @@ import nianhuibao.com.androidprojects.radar_scan_view.WeiBoRadarScanViewActivity
 import nianhuibao.com.androidprojects.rang_seekBar.RangeSeekBarActivity;
 import nianhuibao.com.androidprojects.recyclerview_ce_hua.RecyclerCeHuaActivity;
 import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
+import nianhuibao.com.androidprojects.screen_shot.FakeJianShuActivity;
 import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
 import nianhuibao.com.androidprojects.sticky_decoration.view.StickyDecorationActivity;
 import nianhuibao.com.androidprojects.super_textView.SuperTextViewActivity;
@@ -47,7 +48,8 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 findViewById(R.id.bt_TraditionActivity),
                 findViewById(R.id.bt_PropertyActivity),
                 findViewById(R.id.bt_WeiBoRadarScanViewActivity),
-                findViewById(R.id.bt_DragBallViewActivity)
+                findViewById(R.id.bt_DragBallViewActivity),
+                findViewById(R.id.bt_FakeJianShuActivity)
         );
     }
 
@@ -107,6 +109,9 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 break;
             case R.id.bt_DragBallViewActivity:
                 startActivity(this, DragBallViewActivity.class);
+                break;
+            case R.id.bt_FakeJianShuActivity:
+                startActivity(this, FakeJianShuActivity.class);
                 break;
             default:
                 break;
