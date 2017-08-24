@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nianhuibao.com.androidprojects.pull_recyclerView.PullZoomView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pzv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include layout="@layout/layout_pull_recyclerview_header"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tag="content"/>
+    </LinearLayout>
+</nianhuibao.com.androidprojects.pull_recyclerView.PullZoomView>

@@ -10,6 +10,7 @@ import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
 import nianhuibao.com.androidprojects.horizontal_progressBar.ProgressBarActivity;
 import nianhuibao.com.androidprojects.pay_psd_inputView.PayPsdViewActivity;
 import nianhuibao.com.androidprojects.property_animation.PropertyActivity;
+import nianhuibao.com.androidprojects.pull_recyclerView.PullRecyclerViewActivity;
 import nianhuibao.com.androidprojects.radar_scan_view.WeiBoRadarScanViewActivity;
 import nianhuibao.com.androidprojects.rang_seekBar.RangeSeekBarActivity;
 import nianhuibao.com.androidprojects.recyclerview_ce_hua.RecyclerCeHuaActivity;
@@ -49,7 +50,8 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 findViewById(R.id.bt_PropertyActivity),
                 findViewById(R.id.bt_WeiBoRadarScanViewActivity),
                 findViewById(R.id.bt_DragBallViewActivity),
-                findViewById(R.id.bt_FakeJianShuActivity)
+                findViewById(R.id.bt_FakeJianShuActivity),
+                findViewById(R.id.bt_PullRecyclerViewActivity)
         );
     }
 
@@ -112,6 +114,9 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 break;
             case R.id.bt_FakeJianShuActivity:
                 startActivity(this, FakeJianShuActivity.class);
+                break;
+            case R.id.bt_PullRecyclerViewActivity:
+                startActivity(this, PullRecyclerViewActivity.class);
                 break;
             default:
                 break;

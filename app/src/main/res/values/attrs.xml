@@ -199,4 +199,11 @@
         <attr name="dragBallViewColor" format="color|reference"/>
         <attr name="dragBallViewRadius" format="dimension|reference"/>
     </declare-styleable>
+
+    <declare-styleable name="PullZoomView">
+        <attr name="pzvSensitive" format="float|reference"/>
+        <attr name="pzvIsParallax" format="boolean|reference"/>
+        <attr name="pzvIsZoomEnable" format="boolean|reference"/>
+        <attr name="pzvZoomTime" format="integer|reference"/>
+    </declare-styleable>
 </resources>

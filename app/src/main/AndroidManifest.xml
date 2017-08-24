@@ -125,6 +125,7 @@
         <activity android:name=".drag_ball_view.DragBallViewActivity"/>
         <activity android:name=".screen_shot.GenScreenShotActivity"/>
         <activity android:name=".screen_shot.FakeJianShuActivity"/>
+        <activity android:name=".pull_recyclerView.PullRecyclerViewActivity"/>
     </application>
 
 </manifest>
