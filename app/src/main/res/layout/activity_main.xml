@@ -173,6 +173,22 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="下拉放大效果"/>
+
+            <Button
+                android:id="@+id/bt_MaxHeightViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="设置View的最大高度"/>
+
+            <Button
+                android:id="@+id/bt_WheelSelectActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="一个刻度尺子的效果"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

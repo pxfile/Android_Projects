@@ -9,6 +9,7 @@ import androidprojects.com.library.drag_ball_view.DragBallViewActivity;
 import androidprojects.com.library.easy_swipe_menu.EasySwipeMenuLayoutActivity;
 import androidprojects.com.library.fadeIn_textView.FadeInTextViewActivity;
 import androidprojects.com.library.horizontal_progressBar.ProgressBarActivity;
+import androidprojects.com.library.max_height_view.MaxHeightViewActivity;
 import androidprojects.com.library.pay_psd_inputView.PayPsdViewActivity;
 import androidprojects.com.library.property_animation.PropertyActivity;
 import androidprojects.com.library.pull_recyclerView.PullRecyclerViewActivity;
@@ -23,6 +24,7 @@ import androidprojects.com.library.super_textView.SuperTextViewActivity;
 import androidprojects.com.library.titanic.TitanicTextViewActivity;
 import androidprojects.com.library.tradition_animation.TraditionActivity;
 import androidprojects.com.library.ultraviewpager.UPVDemoActivity;
+import androidprojects.com.library.wheel_select.WheelSelectActivity;
 
 public class MainActivity extends BaseActivity implements View.OnClickListener {
 
@@ -52,7 +54,9 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 findViewById(R.id.bt_WeiBoRadarScanViewActivity),
                 findViewById(R.id.bt_DragBallViewActivity),
                 findViewById(R.id.bt_FakeJianShuActivity),
-                findViewById(R.id.bt_PullRecyclerViewActivity)
+                findViewById(R.id.bt_PullRecyclerViewActivity),
+                findViewById(R.id.bt_MaxHeightViewActivity),
+                findViewById(R.id.bt_WheelSelectActivity)
         );
     }
 
@@ -119,6 +123,11 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             case R.id.bt_PullRecyclerViewActivity:
                 startActivity(this, PullRecyclerViewActivity.class);
                 break;
+            case R.id.bt_MaxHeightViewActivity:
+                startActivity(this, MaxHeightViewActivity.class);
+                break;
+            case R.id.bt_WheelSelectActivity:
+                startActivity(this, WheelSelectActivity.class);
             default:
                 break;
         }

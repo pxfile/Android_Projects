@@ -8,18 +8,18 @@ package com.tmall.ultraviewpager;
 
 public final class R {
     public static final class attr {
-        public static int layoutManager = 0x7f010116;
-        public static int reverseLayout = 0x7f010118;
-        public static int spanCount = 0x7f010117;
-        public static int stackFromEnd = 0x7f010119;
-        public static int upv_automeasure = 0x7f010168;
-        public static int upv_autoscroll = 0x7f010162;
-        public static int upv_disablescroll = 0x7f010166;
-        public static int upv_infiniteloop = 0x7f010163;
-        public static int upv_itemratio = 0x7f010169;
-        public static int upv_multiscreen = 0x7f010167;
-        public static int upv_ratio = 0x7f010164;
-        public static int upv_scrollmode = 0x7f010165;
+        public static int layoutManager = 0x7f010118;
+        public static int reverseLayout = 0x7f01011a;
+        public static int spanCount = 0x7f010119;
+        public static int stackFromEnd = 0x7f01011b;
+        public static int upv_automeasure = 0x7f01016a;
+        public static int upv_autoscroll = 0x7f010164;
+        public static int upv_disablescroll = 0x7f010168;
+        public static int upv_infiniteloop = 0x7f010165;
+        public static int upv_itemratio = 0x7f01016b;
+        public static int upv_multiscreen = 0x7f010169;
+        public static int upv_ratio = 0x7f010166;
+        public static int upv_scrollmode = 0x7f010167;
     }
     public static final class dimen {
         public static int item_touch_helper_max_drag_scroll_per_frame = 0x7f070062;
@@ -37,13 +37,13 @@ public final class R {
         public static int app_name = 0x7f060024;
     }
     public static final class styleable {
-        public static int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f010116, 0x7f010117, 0x7f010118, 0x7f010119, 0x7f01011a, 0x7f01011b, 0x7f01011c, 0x7f01011d, 0x7f01011e };
+        public static int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f010118, 0x7f010119, 0x7f01011a, 0x7f01011b, 0x7f01011c, 0x7f01011d, 0x7f01011e, 0x7f01011f, 0x7f010120 };
         public static int RecyclerView_android_orientation = 0;
         public static int RecyclerView_layoutManager = 2;
         public static int RecyclerView_reverseLayout = 4;
         public static int RecyclerView_spanCount = 3;
         public static int RecyclerView_stackFromEnd = 5;
-        public static int[] UltraViewPager = { 0x7f010162, 0x7f010163, 0x7f010164, 0x7f010165, 0x7f010166, 0x7f010167, 0x7f010168, 0x7f010169 };
+        public static int[] UltraViewPager = { 0x7f010164, 0x7f010165, 0x7f010166, 0x7f010167, 0x7f010168, 0x7f010169, 0x7f01016a, 0x7f01016b };
         public static int UltraViewPager_upv_automeasure = 6;
         public static int UltraViewPager_upv_autoscroll = 0;
         public static int UltraViewPager_upv_disablescroll = 4;

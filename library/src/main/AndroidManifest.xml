@@ -117,6 +117,8 @@
         <activity android:name="androidprojects.com.library.screen_shot.GenScreenShotActivity"/>
         <activity android:name="androidprojects.com.library.screen_shot.FakeJianShuActivity"/>
         <activity android:name="androidprojects.com.library.pull_recyclerView.PullRecyclerViewActivity"/>
+        <activity android:name=".max_height_view.MaxHeightViewActivity"/>
+        <activity android:name=".wheel_select.WheelSelectActivity"/>
     </application>
 
 </manifest>

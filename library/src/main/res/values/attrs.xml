@@ -206,4 +206,9 @@
         <attr name="pzvIsZoomEnable" format="boolean|reference"/>
         <attr name="pzvZoomTime" format="integer|reference"/>
     </declare-styleable>
+
+    <declare-styleable name="MaxHeightView">
+        <attr name="mhv_HeightRatio" format="reference|float" />
+        <attr name="mhv_HeightDimen" format="reference|dimension" />
+    </declare-styleable>
 </resources>

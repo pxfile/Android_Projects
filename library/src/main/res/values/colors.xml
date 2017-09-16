@@ -94,4 +94,6 @@
 
     <color name="opacity_5_a58fed">#80A58FED</color>
 
+    <color name="selected">#88ff0000</color>
+    <color name="unselected">#88000000</color>
 </resources>
