@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
           package="nianhuibao.com.androidprojects">
-
-    <!--声明权限-->
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <!--震动的权限。4.4及以上不需要声明权限，但低于4.4 时需要声明权限-->
-    <uses-permission android:name="android.permission.VIBRATE"/>
-    <!--闪光灯的权限-->
-    <uses-permission android:name="android.permission.FLASHLIGHT"/>
 
     <application
         android:allowBackup="true"
@@ -23,8 +17,6 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-
-        <activity android:name=".spannableString_imageSpan.SpannableStringAndImageSpanActivity"/>
     </application>
 
 </manifest>

@@ -21,6 +21,158 @@
                 android:layout_marginTop="5dp"
                 android:gravity="left|center_vertical"
                 android:text="b01_ImageSpan和SpannableString配合使用给TextView任意位置插入图片"/>
+
+            <Button
+                android:id="@+id/bt_EasySwipeMenuLayoutActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="Android之自定义View：侧滑删除"/>
+
+            <Button
+                android:id="@+id/bt_RecyclerViewListAnimActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="RecyclerView List Item 动画"/>
+
+            <Button
+                android:id="@+id/bt_FadeInTextViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="TextView实现打印机效果"/>
+
+            <Button
+                android:id="@+id/bt_ProgressBarActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="炫酷的进度条"/>
+
+            <Button
+                android:id="@+id/bt_PayPsdInputViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="自定义支付密码输入框"/>
+
+            <Button
+                android:id="@+id/bt_RecyclerCeHuaActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="RecyclerView 侧滑删除"/>
+
+            <Button
+                android:id="@+id/bt_RangeSeekBarActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="双向区间选择进度条"/>
+
+            <Button
+                android:id="@+id/bt_StickyDecorationActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="RecyclerView：打造悬浮效果"/>
+
+            <Button
+                android:id="@+id/bt_TitanicTextViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="波浪TextView"/>
+
+            <Button
+                android:id="@+id/bt_SuperTextViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="SuperTextView"/>
+
+            <Button
+                android:id="@+id/bt_SearchViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="CircularRevealAnimSearchView"/>
+
+            <Button
+                android:id="@+id/bt_CircleRevealLoadingActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="圆形旋转进度条，仿微博头像加载效果"/>
+
+            <Button
+                android:id="@+id/bt_UltraViewPagerActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="UltraViewPager 一个封装多种特性的ViewPager，"/>
+
+            <Button
+                android:id="@+id/bt_TraditionActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="传统动画"/>
+
+            <Button
+                android:id="@+id/bt_PropertyActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="属性动画"/>
+
+            <Button
+                android:id="@+id/bt_WeiBoRadarScanViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="仿新浪微博雷达扫描效果"/>
+
+            <Button
+                android:id="@+id/bt_DragBallViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="小球虽手指移动效果"/>
+
+            <Button
+                android:id="@+id/bt_FakeJianShuActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="仿简书长按生成图片效果"/>
+
+            <Button
+                android:id="@+id/bt_PullRecyclerViewActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center_vertical"
+                android:text="下拉放大效果"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
