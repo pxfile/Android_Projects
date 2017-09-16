@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/default/libs/jsoup-1.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9580adfcec4903ac14c11bb8d9b477923c430527">
+        <dex dex="/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/app/build/intermediates/pre-dexed/debug/jsoup-1.7.3_615eb402e405d1c678e3036512767d376c02d16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="420149f26161f05fb507331eb0ccc9d091c8af17">
+        <dex dex="/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/app/build/intermediates/pre-dexed/debug/classes_cf5f5e89d76d54194c3296ebf552d656f9bbbbc5.jar" />
+    </item>
+
+</items>

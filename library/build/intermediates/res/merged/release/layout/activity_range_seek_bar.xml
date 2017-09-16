@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="16dp"
+    android:orientation="vertical">
+
+
+    <androidprojects.com.library.rang_seekBar.RangeSeekBar
+        android:id="@+id/seekbar1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cellMode="number"
+        app:lineColorEdge="@color/colorSeekBarDefault"
+        app:lineColorSelected="@color/colorAccent"
+        app:markTextArray="@array/markArray"
+        app:seekBarMode="single"
+        app:seekBarResId="@drawable/seekbar_thumb"/>
+
+
+    <TextView
+        android:id="@+id/progress2_tv"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"/>
+
+    <androidprojects.com.library.rang_seekBar.RangeSeekBar
+        android:id="@+id/seekbar2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cellMode="number"
+        app:lineColorEdge="@color/colorSeekBarDefault"
+        app:lineColorSelected="@color/colorAccent"
+        app:markTextArray="@array/markArray2"
+        app:max="1"
+        app:min="-1"
+        app:seekBarHeight="4dp"
+        app:seekBarMode="range"
+        app:textPadding="17dp"
+        app:thumbPrimaryColor="@color/colorSeekBarDefault"
+        app:thumbSecondaryColor="@color/colorAccent"
+        app:thumbSize="20dp"/>
+
+    <androidprojects.com.library.rang_seekBar.RangeSeekBar
+        android:id="@+id/seekbar3"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        app:cellMode="other"
+        app:hintBGHeight="50dp"
+        app:hintBGWith="60dp"
+        app:lineColorEdge="@color/colorSeekBarDefault"
+        app:lineColorSelected="@color/colorAccent"
+        app:markTextArray="@array/negativeMarkArray"
+        app:max="100"
+        app:min="-100"
+        app:reserve="60"
+        app:seekBarHeight="2dp"
+        app:seekBarMode="range"
+        app:textPadding="17dp"
+        app:seekTextSize="16sp"
+        app:thumbSize="26dp"/>
+
+    <androidprojects.com.library.rang_seekBar.RangeSeekBar
+        android:id="@+id/seekbar4"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        app:cellMode="other"
+        app:cells="4"
+        app:hideProgressHint="true"
+        app:hintBGHeight="28dp"
+        app:lineColorEdge="@color/colorSeekBarDefault"
+        app:lineColorSelected="@color/colorPrimary"
+        app:markTextArray="@array/wordsArray"
+        app:seekBarHeight="8dp"
+        app:seekBarMode="single"
+        app:textPadding="17dp"
+        app:seekTextSize="12sp"
+        app:thumbSize="26dp"/>
+</LinearLayout>

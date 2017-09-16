@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

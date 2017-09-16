@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_black_24dp.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable-anydpi-v21/emoji_kiss.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/generated/res/pngs/debug/drawable-anydpi-v21/emoji_kiss.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_crop_free_black_24dp.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_crop_free_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_history_black_24dp.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_history_black_24dp.xml"
+    }
+]

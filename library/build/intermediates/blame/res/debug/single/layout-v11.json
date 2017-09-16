@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

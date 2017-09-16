@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_progress_bar.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/item_recyclerview_list_anim.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/item_recyclerview_list_anim.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_frame_animation.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_frame_animation.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/adapter_shopping_cart_item_1.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/adapter_shopping_cart_item_1.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_titanic_text_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_titanic_text_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_fade_in_text_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_fade_in_text_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_fake_jianshu.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_fake_jianshu.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_gen_screen_shot.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_gen_screen_shot.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/layout_pull_recyclerview_header.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/layout_pull_recyclerview_header.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/dialog_input_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/dialog_input_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_demo_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_demo_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_tradition.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_tradition.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/view_rv_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/view_rv_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_sticky_decoration.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_sticky_decoration.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/item_recycler.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/item_recycler.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_value_animation.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_value_animation.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_pay_psd_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_pay_psd_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_recycler_ce_hua.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_recycler_ce_hua.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_property_animation.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_property_animation.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_super_text_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_super_text_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_sticky_recycler_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_sticky_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_circle_reveal_loading.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_circle_reveal_loading.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_upvdemo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_upvdemo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_pager.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_pager.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/view_item_clear_history.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/view_item_clear_history.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_wei_bo_radar_scan_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_wei_bo_radar_scan_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/layout_child.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/layout_child.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_drag_ball_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_drag_ball_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/item_recycler_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/item_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/item_rv_swipemenu.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/item_rv_swipemenu.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_shopcar_anim.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_shopcar_anim.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_range_seek_bar.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_range_seek_bar.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/item_city.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/item_city.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_layout_animations.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_layout_animations.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_blur.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_blur.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/quick_view_load_more.xml",
+        "source": "/Users/pxfile/.android/build-cache/bdadba344c1104327548bfc5f53b1c7b15ce9342/output/res/layout/quick_view_load_more.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_reveal_animation.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_reveal_animation.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/city_group.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/city_group.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_easy_swipe_menu_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_easy_swipe_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_search_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_search_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_pull_recyclerview.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_pull_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/adapter_shopping_cart_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/adapter_shopping_cart_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_spannbalestring_imagespan.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_spannbalestring_imagespan.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_recycler_view_list_anim.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_recycler_view_list_anim.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_property.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_property.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/activity_tween_animation.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/activity_tween_animation.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/item_group.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/layout/item_group.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/layout/abc_screen_content_include.xml"
+    }
+]

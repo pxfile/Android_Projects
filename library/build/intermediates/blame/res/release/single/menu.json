@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/release/menu/menu_jianshu.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/menu/menu_jianshu.xml"
+    }
+]
