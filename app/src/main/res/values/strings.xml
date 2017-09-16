@@ -1,20 +1,3 @@
 <resources>
     <string name="app_name">AndroidProjects</string>
-
-    <string-array name="indicator_style">
-        <item>None</item>
-        <item>Circle</item>
-        <item>Icon</item>
-        <item>Count</item>
-    </string-array>
-    <string-array name="indicator_gravity_hor">
-        <item>Left</item>
-        <item>Right</item>
-        <item>Center</item>
-    </string-array>
-    <string-array name="indicator_gravity_ver">
-        <item>Top</item>
-        <item>Bottom</item>
-        <item>Center</item>
-    </string-array>
 </resources>

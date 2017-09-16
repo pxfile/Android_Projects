@@ -3,79 +3,6 @@
           xmlns:tools="http://schemas.android.com/tools"
           package="nianhuibao.com.androidprojects">
 
-    <!-- 声明权限 -->
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <!-- 震动的权限。4.4及以上不需要声明权限，但低于4.4 时需要声明权限 -->
-    <uses-permission android:name="android.permission.VIBRATE"/>
-    <!-- 闪光灯的权限 -->
-    <uses-permission android:name="android.permission.FLASHLIGHT"/>
-
-    <!-- 获取当前WiFi接入的状态以及WLAN热点的信息 -->
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
-    <!-- 通过WiFi或移动基站的方式获取用户错略的经纬度信息，定位精度大概误差在30~1500米 -->
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
-    <!-- 获取网络信息状态，如当前的网络连接是否有效 -->
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-    <!-- DownloadManager是Android 2.3引入的，基于http协议，用于处理长时间下载 -->
-    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER"/>
-    <!-- 获取电池电量统计信息 -->
-    <uses-permission android:name="android.permission.BATTERY_STATS"/>
-    <!-- 允许一个程序收到广播后快速收到下一个广播 -->
-    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
-    <!-- 允许访问摄像头进行拍照 -->
-    <uses-permission android:name="android.permission.CAMERA"/>
-    <!-- 访问网络连接，可能产生GPRS流量 -->
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <!-- 允许程序禁用键盘锁 -->
-    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
-    <!-- 禁止发出通知，既后台下载，如果要使用这一句必须声明一个权限 -->
-    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"/>
-    <!-- 允许程序获取当前或最近运行的应用 -->
-    <uses-permission android:name="android.permission.GET_TASKS"/>
-    <!-- 允许程序调用killBackgroundProcesses(String).方法结束后台进程 -->
-    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
-    <!-- 挂载、反挂载外部文件系统 -->
-    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
-    <!-- 可以读取设备外部存储空间（内置SDcard和外置SDCard）的文件 -->
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-    <!-- 读取系统底层日志 -->
-    <uses-permission android:name="android.permission.READ_LOGS"/>
-    <!-- 访问电话状态 -->
-    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
-    <!-- 读取短信内容 -->
-    <uses-permission android:name="android.permission.READ_SMS"/>
-    <!-- 允许程序开机自动运行 -->
-    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
-    <!-- 接收短信 -->
-    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
-    <!-- 用户唤醒机器的权限 -->
-    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT"/>
-    <!-- 录制声音通过手机或耳机的麦克 -->
-    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
-    <!-- 录制声音通过手机或耳机的麦克 -->
-    <uses-permission android:name="android.permission.RECORD_VIDEO"/>
-    <!-- 结束任务通过restartPackage(String)方法，该方式将在外来放弃 -->
-    <uses-permission android:name="android.permission.RESTART_PACKAGES"/>
-    <!-- 允许振动 -->
-    <uses-permission android:name="android.permission.VIBRATE"/>
-    <!-- 允许程序在手机屏幕关闭后后台进程仍然运行 -->
-    <uses-permission android:name="android.permission.WAKE_LOCK"/>
-    <!-- 允许读写系统设置项 -->
-    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
-    <!-- 允许程序写入外部存储，如SD卡上写文件 -->
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <!-- 允许程序调用系统直接拨打电话 -->
-    <uses-permission android:name="android.permission.CALL_PHONE"/>
-
-    <!-- 必须有摄像头 -->
-    <uses-feature android:name="android.hardware.camera"/>
-
-    <!-- 开启 Android WebView 的安全浏览模式 -->
-    <meta-data
-        android:name="android.webkit.WebView.EnableSafeBrowsing"
-        android:value="true"/>
-
-    <!-- 有关项目依赖包发生 Manifest Merge 冲突的详细解决方案 tools:replace="android:name, android:label, android:theme,android:allowBackup" -->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -90,42 +17,6 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".spannableString_imageSpan.SpannableStringAndImageSpanActivity"/>
-        <activity android:name=".easy_swipe_menu.EasySwipeMenuLayoutActivity"/>
-        <activity android:name=".recyclerview_list_anim.RecyclerViewListAnimActivity"/>
-        <activity android:name=".fadeIn_textView.FadeInTextViewActivity"/>
-        <activity android:name=".horizontal_progressBar.ProgressBarActivity"/>
-        <activity android:name=".pay_psd_inputView.PayPsdViewActivity"/>
-        <activity android:name=".recyclerview_ce_hua.RecyclerCeHuaActivity">
-        </activity>
-        <activity android:name=".rang_seekBar.RangeSeekBarActivity"/>
-        <activity android:name=".sticky_decoration.view.StickyDecorationActivity"/>
-        <activity android:name=".sticky_decoration.view.StickyRecyclerViewActivity"/>
-        <activity android:name=".sticky_decoration.view.PowerfulStickyRecyclerViewActivity"/>
-        <activity android:name=".sticky_decoration.view.BeautifulRecyclerViewActivity"/>
-        <activity android:name=".titanic.TitanicTextViewActivity"/>
-        <activity android:name=".super_textView.SuperTextViewActivity"/>
-        <activity android:name=".super_textView.SecondActivity"/>
-        <activity android:name=".circular_reveal_anima.SearchViewActivity"/>
-        <activity android:name=".circle_reveal_loading.CircleRevealLoadingActivity"/>
-        <activity android:name=".ultraviewpager.UPVDemoActivity"/>
-        <activity android:name=".ultraviewpager.PagerActivity"/>
-        <activity android:name=".tradition_animation.TraditionActivity"/>
-        <activity android:name=".tradition_animation.blur.BlurActivity"/>
-        <activity android:name=".tradition_animation.TweenedAnimationActivity"/>
-        <activity android:name=".tradition_animation.FrameAnimationActivity"/>
-        <activity android:name=".property_animation.PropertyActivity"/>
-        <activity android:name=".property_animation.ValueAnimationActivity"/>
-        <activity android:name=".property_animation.AliPayAnimActivity"/>
-        <activity android:name=".property_animation.RevealAnimatorActivity"/>
-        <activity android:name=".property_animation.ShopCarAddAnimActivity"/>
-        <activity android:name=".property_animation.LayoutAnimationsActivity"/>
-        <activity android:name=".property_animation.PropertyAnimationActivity"/>
-        <activity android:name=".radar_scan_view.WeiBoRadarScanViewActivity"/>
-        <activity android:name=".drag_ball_view.DragBallViewActivity"/>
-        <activity android:name=".screen_shot.GenScreenShotActivity"/>
-        <activity android:name=".screen_shot.FakeJianShuActivity"/>
-        <activity android:name=".pull_recyclerView.PullRecyclerViewActivity"/>
     </application>
 
 </manifest>

@@ -2,26 +2,27 @@ package nianhuibao.com.androidprojects;
 
 import android.view.View;
 
-import nianhuibao.com.androidprojects.circle_reveal_loading.CircleRevealLoadingActivity;
-import nianhuibao.com.androidprojects.circular_reveal_anima.SearchViewActivity;
-import nianhuibao.com.androidprojects.drag_ball_view.DragBallViewActivity;
-import nianhuibao.com.androidprojects.easy_swipe_menu.EasySwipeMenuLayoutActivity;
-import nianhuibao.com.androidprojects.fadeIn_textView.FadeInTextViewActivity;
-import nianhuibao.com.androidprojects.horizontal_progressBar.ProgressBarActivity;
-import nianhuibao.com.androidprojects.pay_psd_inputView.PayPsdViewActivity;
-import nianhuibao.com.androidprojects.property_animation.PropertyActivity;
-import nianhuibao.com.androidprojects.pull_recyclerView.PullRecyclerViewActivity;
-import nianhuibao.com.androidprojects.radar_scan_view.WeiBoRadarScanViewActivity;
-import nianhuibao.com.androidprojects.rang_seekBar.RangeSeekBarActivity;
-import nianhuibao.com.androidprojects.recyclerview_ce_hua.RecyclerCeHuaActivity;
-import nianhuibao.com.androidprojects.recyclerview_list_anim.RecyclerViewListAnimActivity;
-import nianhuibao.com.androidprojects.screen_shot.FakeJianShuActivity;
-import nianhuibao.com.androidprojects.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
-import nianhuibao.com.androidprojects.sticky_decoration.view.StickyDecorationActivity;
-import nianhuibao.com.androidprojects.super_textView.SuperTextViewActivity;
-import nianhuibao.com.androidprojects.titanic.TitanicTextViewActivity;
-import nianhuibao.com.androidprojects.tradition_animation.TraditionActivity;
-import nianhuibao.com.androidprojects.ultraviewpager.UPVDemoActivity;
+import androidprojects.com.library.BaseActivity;
+import androidprojects.com.library.circle_reveal_loading.CircleRevealLoadingActivity;
+import androidprojects.com.library.circular_reveal_anima.SearchViewActivity;
+import androidprojects.com.library.drag_ball_view.DragBallViewActivity;
+import androidprojects.com.library.easy_swipe_menu.EasySwipeMenuLayoutActivity;
+import androidprojects.com.library.fadeIn_textView.FadeInTextViewActivity;
+import androidprojects.com.library.horizontal_progressBar.ProgressBarActivity;
+import androidprojects.com.library.pay_psd_inputView.PayPsdViewActivity;
+import androidprojects.com.library.property_animation.PropertyActivity;
+import androidprojects.com.library.pull_recyclerView.PullRecyclerViewActivity;
+import androidprojects.com.library.radar_scan_view.WeiBoRadarScanViewActivity;
+import androidprojects.com.library.rang_seekBar.RangeSeekBarActivity;
+import androidprojects.com.library.recyclerview_ce_hua.RecyclerCeHuaActivity;
+import androidprojects.com.library.recyclerview_list_anim.RecyclerViewListAnimActivity;
+import androidprojects.com.library.screen_shot.FakeJianShuActivity;
+import androidprojects.com.library.spannableString_imageSpan.SpannableStringAndImageSpanActivity;
+import androidprojects.com.library.sticky_decoration.view.StickyDecorationActivity;
+import androidprojects.com.library.super_textView.SuperTextViewActivity;
+import androidprojects.com.library.titanic.TitanicTextViewActivity;
+import androidprojects.com.library.tradition_animation.TraditionActivity;
+import androidprojects.com.library.ultraviewpager.UPVDemoActivity;
 
 public class MainActivity extends BaseActivity implements View.OnClickListener {
 
