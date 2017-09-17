@@ -126,6 +126,7 @@
         <activity android:name="androidprojects.com.library.pull_recyclerView.PullRecyclerViewActivity" />
         <activity android:name="androidprojects.com.library.max_height_view.MaxHeightViewActivity" />
         <activity android:name="androidprojects.com.library.wheel_select.WheelSelectActivity" />
+        <activity android:name="androidprojects.com.library.float_action_button.FloatActionActivity" />
     </application>
 
 </manifest>

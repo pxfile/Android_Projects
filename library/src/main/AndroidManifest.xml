@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="androidprojects.com.library">
 
@@ -81,44 +82,45 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="androidprojects.com.library.spannableString_imageSpan.SpannableStringAndImageSpanActivity"/>
-        <activity android:name="androidprojects.com.library.easy_swipe_menu.EasySwipeMenuLayoutActivity"/>
-        <activity android:name="androidprojects.com.library.recyclerview_list_anim.RecyclerViewListAnimActivity"/>
-        <activity android:name="androidprojects.com.library.fadeIn_textView.FadeInTextViewActivity"/>
-        <activity android:name="androidprojects.com.library.horizontal_progressBar.ProgressBarActivity"/>
-        <activity android:name="androidprojects.com.library.pay_psd_inputView.PayPsdViewActivity"/>
-        <activity android:name="androidprojects.com.library.recyclerview_ce_hua.RecyclerCeHuaActivity">
+        <activity android:name=".spannableString_imageSpan.SpannableStringAndImageSpanActivity"/>
+        <activity android:name=".easy_swipe_menu.EasySwipeMenuLayoutActivity"/>
+        <activity android:name=".recyclerview_list_anim.RecyclerViewListAnimActivity"/>
+        <activity android:name=".fadeIn_textView.FadeInTextViewActivity"/>
+        <activity android:name=".horizontal_progressBar.ProgressBarActivity"/>
+        <activity android:name=".pay_psd_inputView.PayPsdViewActivity"/>
+        <activity android:name=".recyclerview_ce_hua.RecyclerCeHuaActivity">
         </activity>
-        <activity android:name="androidprojects.com.library.rang_seekBar.RangeSeekBarActivity"/>
-        <activity android:name="androidprojects.com.library.sticky_decoration.view.StickyDecorationActivity"/>
-        <activity android:name="androidprojects.com.library.sticky_decoration.view.StickyRecyclerViewActivity"/>
-        <activity android:name="androidprojects.com.library.sticky_decoration.view.PowerfulStickyRecyclerViewActivity"/>
-        <activity android:name="androidprojects.com.library.sticky_decoration.view.BeautifulRecyclerViewActivity"/>
-        <activity android:name="androidprojects.com.library.titanic.TitanicTextViewActivity"/>
-        <activity android:name="androidprojects.com.library.super_textView.SuperTextViewActivity"/>
-        <activity android:name="androidprojects.com.library.super_textView.SecondActivity"/>
-        <activity android:name="androidprojects.com.library.circular_reveal_anima.SearchViewActivity"/>
-        <activity android:name="androidprojects.com.library.circle_reveal_loading.CircleRevealLoadingActivity"/>
-        <activity android:name="androidprojects.com.library.ultraviewpager.UPVDemoActivity"/>
-        <activity android:name="androidprojects.com.library.ultraviewpager.PagerActivity"/>
-        <activity android:name="androidprojects.com.library.tradition_animation.TraditionActivity"/>
-        <activity android:name="androidprojects.com.library.tradition_animation.blur.BlurActivity"/>
-        <activity android:name="androidprojects.com.library.tradition_animation.TweenedAnimationActivity"/>
-        <activity android:name="androidprojects.com.library.tradition_animation.FrameAnimationActivity"/>
-        <activity android:name="androidprojects.com.library.property_animation.PropertyActivity"/>
-        <activity android:name="androidprojects.com.library.property_animation.ValueAnimationActivity"/>
-        <activity android:name="androidprojects.com.library.property_animation.AliPayAnimActivity"/>
-        <activity android:name="androidprojects.com.library.property_animation.RevealAnimatorActivity"/>
-        <activity android:name="androidprojects.com.library.property_animation.ShopCarAddAnimActivity"/>
-        <activity android:name="androidprojects.com.library.property_animation.LayoutAnimationsActivity"/>
-        <activity android:name="androidprojects.com.library.property_animation.PropertyAnimationActivity"/>
-        <activity android:name="androidprojects.com.library.radar_scan_view.WeiBoRadarScanViewActivity"/>
-        <activity android:name="androidprojects.com.library.drag_ball_view.DragBallViewActivity"/>
-        <activity android:name="androidprojects.com.library.screen_shot.GenScreenShotActivity"/>
-        <activity android:name="androidprojects.com.library.screen_shot.FakeJianShuActivity"/>
-        <activity android:name="androidprojects.com.library.pull_recyclerView.PullRecyclerViewActivity"/>
+        <activity android:name=".rang_seekBar.RangeSeekBarActivity"/>
+        <activity android:name=".sticky_decoration.view.StickyDecorationActivity"/>
+        <activity android:name=".sticky_decoration.view.StickyRecyclerViewActivity"/>
+        <activity android:name=".sticky_decoration.view.PowerfulStickyRecyclerViewActivity"/>
+        <activity android:name=".sticky_decoration.view.BeautifulRecyclerViewActivity"/>
+        <activity android:name=".titanic.TitanicTextViewActivity"/>
+        <activity android:name=".super_textView.SuperTextViewActivity"/>
+        <activity android:name=".super_textView.SecondActivity"/>
+        <activity android:name=".circular_reveal_anima.SearchViewActivity"/>
+        <activity android:name=".circle_reveal_loading.CircleRevealLoadingActivity"/>
+        <activity android:name=".ultraviewpager.UPVDemoActivity"/>
+        <activity android:name=".ultraviewpager.PagerActivity"/>
+        <activity android:name=".tradition_animation.TraditionActivity"/>
+        <activity android:name=".tradition_animation.blur.BlurActivity"/>
+        <activity android:name=".tradition_animation.TweenedAnimationActivity"/>
+        <activity android:name=".tradition_animation.FrameAnimationActivity"/>
+        <activity android:name=".property_animation.PropertyActivity"/>
+        <activity android:name=".property_animation.ValueAnimationActivity"/>
+        <activity android:name=".property_animation.AliPayAnimActivity"/>
+        <activity android:name=".property_animation.RevealAnimatorActivity"/>
+        <activity android:name=".property_animation.ShopCarAddAnimActivity"/>
+        <activity android:name=".property_animation.LayoutAnimationsActivity"/>
+        <activity android:name=".property_animation.PropertyAnimationActivity"/>
+        <activity android:name=".radar_scan_view.WeiBoRadarScanViewActivity"/>
+        <activity android:name=".drag_ball_view.DragBallViewActivity"/>
+        <activity android:name=".screen_shot.GenScreenShotActivity"/>
+        <activity android:name=".screen_shot.FakeJianShuActivity"/>
+        <activity android:name=".pull_recyclerView.PullRecyclerViewActivity"/>
         <activity android:name=".max_height_view.MaxHeightViewActivity"/>
         <activity android:name=".wheel_select.WheelSelectActivity"/>
+        <activity android:name=".float_action_button.FloatActionActivity"/>
     </application>
 
 </manifest>

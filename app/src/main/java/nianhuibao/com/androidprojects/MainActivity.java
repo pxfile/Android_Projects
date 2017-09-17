@@ -8,6 +8,7 @@ import androidprojects.com.library.circular_reveal_anima.SearchViewActivity;
 import androidprojects.com.library.drag_ball_view.DragBallViewActivity;
 import androidprojects.com.library.easy_swipe_menu.EasySwipeMenuLayoutActivity;
 import androidprojects.com.library.fadeIn_textView.FadeInTextViewActivity;
+import androidprojects.com.library.float_action_button.FloatActionActivity;
 import androidprojects.com.library.horizontal_progressBar.ProgressBarActivity;
 import androidprojects.com.library.max_height_view.MaxHeightViewActivity;
 import androidprojects.com.library.pay_psd_inputView.PayPsdViewActivity;
@@ -56,7 +57,8 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 findViewById(R.id.bt_FakeJianShuActivity),
                 findViewById(R.id.bt_PullRecyclerViewActivity),
                 findViewById(R.id.bt_MaxHeightViewActivity),
-                findViewById(R.id.bt_WheelSelectActivity)
+                findViewById(R.id.bt_WheelSelectActivity),
+                findViewById(R.id.bt_FloatActionActivity)
         );
     }
 
@@ -128,6 +130,9 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 break;
             case R.id.bt_WheelSelectActivity:
                 startActivity(this, WheelSelectActivity.class);
+            case R.id.bt_FloatActionActivity:
+                startActivity(this, FloatActionActivity.class);
+                break;
             default:
                 break;
         }

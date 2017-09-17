@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <!-- 悬浮图标 -->
+    <ImageView
+        android:id="@+id/main_iv_float"
+        android:layout_width="68dp"
+        android:layout_height="82dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="70dp"
+        android:visibility="visible"/>
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/main_fm_create"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:paddingBottom="70dp"
+        android:paddingRight="20dp"
+        fab:menu_backgroundColor="@color/bg_create"
+        fab:menu_buttonSpacing="5dp"
+        fab:menu_colorNormal="@color/main"
+        fab:menu_colorPressed="@color/main"
+        fab:menu_colorRipple="@color/main"
+        fab:menu_icon="@drawable/home_create_topic"
+        fab:menu_labels_ellipsize="end"
+        fab:menu_labels_margin="15dp"
+        fab:menu_labels_showShadow="false"
+        fab:menu_labels_singleLine="true">
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/main_fb_live"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_create_live"
+            fab:fab_colorNormal="@color/main"
+            fab:fab_colorPressed="@color/main"
+            fab:fab_colorRipple="@color/main"
+            fab:fab_label="@string/home_create_live"
+            fab:fab_size="mini"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/main_fb_diary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_create_diary"
+            fab:fab_colorNormal="@color/main"
+            fab:fab_colorPressed="@color/main"
+            fab:fab_colorRipple="@color/main"
+            fab:fab_label="@string/home_create_diary"
+            fab:fab_size="mini"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/main_fb_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_create_question"
+            fab:fab_colorNormal="@color/main"
+            fab:fab_colorPressed="@color/main"
+            fab:fab_colorRipple="@color/main"
+            fab:fab_label="@string/home_create_question"
+            fab:fab_size="mini"/>
+    </com.github.clans.fab.FloatingActionMenu>
+</RelativeLayout>

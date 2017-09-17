@@ -17,4 +17,8 @@
         <item>Bottom</item>
         <item>Center</item>
     </string-array>
+
+    <string name="home_create_live">来直播</string>
+    <string name="home_create_diary">写日记</string>
+    <string name="home_create_question">提问题</string>
 </resources>

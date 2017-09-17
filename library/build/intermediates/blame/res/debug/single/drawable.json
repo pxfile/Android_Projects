@@ -116,6 +116,10 @@
         "source": "/Users/pxfile/.android/build-cache/bdadba344c1104327548bfc5f53b1c7b15ce9342/output/res/drawable/sample_footer_loading_progress.xml"
     },
     {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/home_create_topic.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/drawable/home_create_topic.png"
+    },
+    {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/alipay_msp_success7.png",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/drawable/alipay_msp_success7.png"
     },
@@ -170,6 +174,10 @@
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/icon_create_question.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/drawable/icon_create_question.png"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/alipay_msp_success14.png",
@@ -412,6 +420,10 @@
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/icon_create_diary.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/drawable/icon_create_diary.png"
+    },
+    {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/progress_hint_bg.9.png",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/drawable/progress_hint_bg.9.png"
     },
@@ -574,6 +586,10 @@
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/icon_create_live.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/src/main/res/drawable/icon_create_live.png"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",

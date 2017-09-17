@@ -50,18 +50,21 @@
     <color name="bg3">#B888E5</color>
     <color name="bg4">#F695A8</color>
     <color name="bg5">#F9D461</color>
+    <color name="bg_create">#E6FFFFFF</color>
     <color name="black">#000000</color>
     <color name="blue">#19bbf7</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorSeekBarDefault">#c3c3c3</color>
+    <color name="f_title">#333333</color>
     <color name="gray">#BEBEBE</color>
     <color name="gray_4c">#4c4c4c</color>
     <color name="gray_ba">#AFB1B0</color>
     <color name="gray_d9">#d9d9d9</color>
     <color name="gray_f2">#f2f2f2</color>
     <color name="green">#00ff00</color>
+    <color name="main">#3ADBD2</color>
     <color name="main_blue">#15bdf4</color>
     <color name="mid_gray">#999999</color>
     <color name="mid_white">#33ffffff</color>
@@ -169,8 +172,11 @@
     <integer name="card_flip_time_full">300</integer>
     <integer name="card_flip_time_half">150</integer>
     <string name="app_name">Library</string>
+    <string name="home_create_diary">写日记</string>
+    <string name="home_create_live">来直播</string>
+    <string name="home_create_question">提问题</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
