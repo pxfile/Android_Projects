@@ -60,5 +60,67 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/gengmei_pxf/.android/build-cache/4c14c9e5440c95ae2f2ca7d05aee0639ce7c3610/output/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 56,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/gengmei_pxf/.android/build-cache/4c14c9e5440c95ae2f2ca7d05aee0639ce7c3610/output/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 56,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 46,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/gengmei_pxf/.android/build-cache/4c14c9e5440c95ae2f2ca7d05aee0639ce7c3610/output/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 46,
+                        "endOffset": 204
+                    }
+                }
+            }
+        ]
     }
 ]

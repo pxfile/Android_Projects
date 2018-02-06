@@ -1,67 +1,75 @@
 [
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_in_from_left.xml",
-        "source": "/Users/pxfile/.android/build-cache/1a37f18a2ea3fda7d9236fc989b2280377286db0/output/res/anim/fab_slide_in_from_left.xml"
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim2.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim2.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim3.xml",
-        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim3.xml"
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/pxfile/.android/build-cache/1a37f18a2ea3fda7d9236fc989b2280377286db0/output/res/anim/fab_slide_in_from_left.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_scale_down.xml",
         "source": "/Users/pxfile/.android/build-cache/1a37f18a2ea3fda7d9236fc989b2280377286db0/output/res/anim/fab_scale_down.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_in_from_right.xml",
-        "source": "/Users/pxfile/.android/build-cache/1a37f18a2ea3fda7d9236fc989b2280377286db0/output/res/anim/fab_slide_in_from_right.xml"
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/alpha_anim.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/alpha_anim.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/translate_anim.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/translate_anim.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
-        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_fade_out.xml"
-    },
-    {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/translate_anim.xml",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/translate_anim.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/rotate_anim.xml",
-        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/rotate_anim.xml"
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/46e642d1ebe4d0967d404fa510c526dd62652c70/output/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_out_left.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/rotate_anim.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/rotate_anim.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_out_bottom.xml",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim2.xml",
-        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim2.xml"
-    },
-    {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_out_left.xml",
-        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/slide_out_left.xml"
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_out_bottom.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/slide_out_bottom.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_in_bottom.xml",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/out_to_bottom.xml",
-        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/out_to_bottom.xml"
-    },
-    {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/alpha_anim.xml",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/alpha_anim.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/46e642d1ebe4d0967d404fa510c526dd62652c70/output/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_scale_down.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/46e642d1ebe4d0967d404fa510c526dd62652c70/output/res/anim/fab_scale_down.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_scale_up.xml",
@@ -72,12 +80,132 @@
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_out_to_left.xml",
-        "source": "/Users/pxfile/.android/build-cache/1a37f18a2ea3fda7d9236fc989b2280377286db0/output/res/anim/fab_slide_out_to_left.xml"
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/in_from_bottom.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/zoomin.xml",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/zoomin.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_scale_up.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/46e642d1ebe4d0967d404fa510c526dd62652c70/output/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim1.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim1.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/zoomout.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/zoomout.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_in_right.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim3.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim3.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim3.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim3.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_in_bottom.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/pxfile/.android/build-cache/1a37f18a2ea3fda7d9236fc989b2280377286db0/output/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/rotate_anim.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/rotate_anim.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim2.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim2.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/46e642d1ebe4d0967d404fa510c526dd62652c70/output/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/46e642d1ebe4d0967d404fa510c526dd62652c70/output/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/out_to_bottom.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_out_left.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/out_to_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim1.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim1.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/pxfile/.android/build-cache/1a37f18a2ea3fda7d9236fc989b2280377286db0/output/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/slide_in_right.xml",
@@ -88,16 +216,12 @@
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/scale_anim1.xml",
-        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/scale_anim1.xml"
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/zoomin.xml",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/zoomin.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/in_from_bottom.xml",
@@ -106,10 +230,6 @@
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/zoomout.xml",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/anim/zoomout.xml"
-    },
-    {
-        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",

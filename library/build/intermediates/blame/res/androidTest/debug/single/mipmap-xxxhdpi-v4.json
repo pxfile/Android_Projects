@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
         "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/ic_launcher.png",

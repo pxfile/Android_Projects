@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
@@ -10,6 +18,14 @@
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/pxfile/.android/build-cache/d69f287cf1e63eb5df0e64b444e27b45f656a54c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/gengmei_pxf/Documents/pxf/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/gengmei_pxf/.android/build-cache/a3b474ab72129c3d169e410ce6ef17c086279569/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Android_Projects/library/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
